@@ -1,5 +1,9 @@
 
-👋Hi there!
+👋Hi there! Hi there! I'm <b>Backend Developer.</b><br>
+I'm always growing more today than yesterday.💖
+
+I enjoy walking and like to study.🏃‍♀📚<br>
+
 
 ### 💪 Skills
 #### Platforms & Languages
